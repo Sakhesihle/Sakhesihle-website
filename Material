@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Material</title>
+</head>
+<body bgcolor="lightblue>
+    <h1>Material Makhubu</h1>
+    <p>Material Makhubu is a South African artist known for his vibrant<br/> and thought-provoking works that often explore themes of identity, culture, and social issues.</p>
+    <hr size="3" color="darkblue" width="50%" />
+
+<img src="friends4Life.jpg" width="500" height="300">
+
+
+
+</body>
+</html>

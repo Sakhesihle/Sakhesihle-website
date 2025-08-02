@@ -1,0 +1,59 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><Sakhesihle class="web">My website</Sakhesihle></title>
+</head>
+<body>
+    <h1>Sakhesihle </h1>
+    <p>i cant belive im learning how to creat a website </p>
+    <p>it may not be profesional but i am a beginer </p>
+    <style>
+        body {
+            background-color: #00ff15;
+            font-family: Arial, sans-serif;
+            color: #0099ff;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+        .wrapper {
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .sheet {
+            background-color: #e7f3fe;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+    desinged by Sakhesihle
+    <div class="wrapper">
+        <div class="sheet sheet_1">POETIC DOME
+            <button>CLICK ME</button>
+        </div>
+
+</body>
+</html>   
